@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tareaOnline3 Bicis</string>
+    <string name="bikes_available">Bicis: %d</string>
+    <string name="docks_available">Anclajes: %d</string>
+    <string name="status_operational">Operativa</string>
+    <string name="status_not_operational">No operativa</string>
+</resources>
